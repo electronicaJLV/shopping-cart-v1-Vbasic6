@@ -1,0 +1,42 @@
+### =======================================================================
+
+### GITIGNORE PARA VISUAL BASIC 6 (VB6)
+
+### =======================================================================
+
+### Archivos de espacio de trabajo del usuario (Ajustes de ventanas abiertas)
+
+*.vbw 
+
+### Archivos de configuración local y opciones de proyecto
+
+*.oca
+*.Scc 
+
+### Archivos binarios compilados y archivos objeto temporales
+
+*.exe
+*.dll
+*.ocx
+*.obj
+*.lib
+*.exp 
+
+### Archivos temporales generados por compilación o fallos
+
+*.tmp
+*.log
+*.err 
+
+### Archivos generados por empaquetado o instaladores (Package & Deployment Wizard)
+
+/Package/
+Support/
+*.CAB
+*.BAT 
+
+### Archivos de caché del sistema operativo y miniaturas
+
+Thumbs.db
+ehthumbs.db
+Desktop.ini

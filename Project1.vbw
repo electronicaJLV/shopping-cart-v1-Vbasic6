@@ -1,0 +1,9 @@
+frmInventario = 75, 75, 868, 542, , 50, 50, 843, 517, C
+modDatabase = 25, 25, 818, 492, 
+modBotones = 26, 26, 1018, 459, 
+modSetCursor = 0, 0, 0, 0, C
+modDatos = 50, 50, 935, 455, 
+ModIniFile = 0, 0, 0, 0, C
+frmClientes = 0, 0, 793, 467, , 200, 200, 993, 667, C
+frmMain = 0, 0, 0, 0, C, 200, 200, 993, 641, C
+frmCambiodelDolar = 130, 130, 999, 556, C, 25, 25, 818, 492, C
